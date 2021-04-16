@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px auto;
+}
+.container{
+    display: grid;
+    grid-template-rows: 100px 150px 200px;
+    grid-template-columns: 300px auto 250px;
+    grid-gap: 8px;
+    color:black;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.div1{
+    background-color:aqua;
+    
+}
+
+.div2{
+    background-color: chartreuse;
+}
+
+.div3{
+    background-color: fuchsia;
+}
+
+.div4
+{
+    background-color: brown;
+}
+
+.div5{
+    background-color: blueviolet;
+}
+
+.div6{
+    background-color: lightpink;
+}
+
+.div7
+{
+    background-color: chocolate;
+}
+
+.div8
+{
+    background-color: coral;
+}
+
+.div9
+{
+    background-color: cornflowerblue;
+}
